@@ -4,23 +4,14 @@
     "label": "Entry-Level Game Developer",
     "image": "",
     "email": "ryan.n.crowe@gmail.com",
-    //"phone": "(912) 123-4567",
+    "phone": "(+61) 434 272 998",
     "url": "https://m0j0man1ac.github.io",
     "summary": "About-to-graduate game programmer",
     "location": {
-      // "address": "2712 Broadway St",
-      // "postalCode": "CA 94115",
+
       "city": "Sydney",
-      // "countryCode": "US",
-      // "region": "California"
-    }//,
-    // "profiles": [
-    //   {
-    //     "network": "Twitter",
-    //     "username": "AlbertEinstein",
-    //     "url": "https://twitter.com/AlbertEinstein"
-    //   }
-    // ]
+      "region": "Australia"
+    }
   },
   "work": [
     {
