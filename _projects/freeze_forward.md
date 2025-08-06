@@ -5,7 +5,7 @@ description: Indirect block puzzler. An abstract force system that cascades into
 img: assets/img/freezeforward_promocrop_480x320.png
 redirect: https://m0j0man.itch.io/freeze-forward
 importance: 3
-category: Notable Projects
+category: Notable
 ---
 
 Every project has a beautiful feature showcase page.

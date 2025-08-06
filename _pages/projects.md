@@ -1,12 +1,12 @@
 ---
 layout: page
 title: projects
-hide_title: true
+hide_title: false
 permalink: /projects/
-description: The best I have to show for now.
+description: "The best I have to show, for now :)"
 nav: true
 nav_order: 3
-display_categories: [Notable Projects]
+display_categories: [Notable]
 horizontal: false
 ---
 

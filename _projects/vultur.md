@@ -5,7 +5,7 @@ description:  Atmospheric Biopunk Mech FPS with Action RPG build creation.
 img: assets/img/vultur_sxsw_promo_art_zoom_480x320.png
 redirect: https://oberindraco.itch.io/project-vulture-alpha-build
 importance: 1
-category: Notable Projects
+category: Notable
 related_publications: false
 ---
 

@@ -5,7 +5,7 @@ description: Gravity defying dodgeball in space. Local multiplayer chaos for up 
 img: assets/img/terminalvelocity_screenshot_480x320.png
 redirect: https://harley-james.itch.io/terminalvelocity
 importance: 2
-category: Notable Projects
+category: Notable
 giscus_comments: true
 ---
 
