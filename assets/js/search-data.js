@@ -18,17 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "The best I have to show for now.",
+          description: "The best I have to show, for now :)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-tutoring",
-          title: "tutoring",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/tutoring/";
           },
         },{id: "post-a-post-with-plotly-js",
         
